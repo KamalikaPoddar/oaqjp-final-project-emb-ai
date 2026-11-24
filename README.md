@@ -1,2 +1,3 @@
 # Repository for final project
-Final Project Kamalika Poddar
+Final Project
+By Kamalika Poddar
